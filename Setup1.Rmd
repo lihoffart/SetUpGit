@@ -1,0 +1,28 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+
+
+```{r}
+#Trying to link R with git so I can auto push/pull
+#From https://nceas.github.io/oss-lessons/version-control/4-getting-started-with-git-in-RStudio.html
+
+#Must have existing git account
+
+#1. All files that are pushed/pulled must be in single folder that will be Github repo. Create this folder now
+#2. Create a new RStudio Project from the upper-right corner of the RStudio IDE window, choosing New Project
+  #from existing directory (navigate to the folder you just created)
+  #click crete project
+  #A new window will open. The directory (folder you just created to link to Git) will be listed as the name is the top right corner
+
+```
+
+```{r}
+#Now you that have successfully created a RStudio project, you can enable the version control. Go to the Tools menu -> Version Control -> Project Setup
+```
+
+
+
+
